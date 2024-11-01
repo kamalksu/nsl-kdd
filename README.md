@@ -32,4 +32,8 @@ LabelEncoder: Allows to convert categorical values into numeric format.
 
 
 
-## 
+## Results 
+![Screenshot 2024-11-01 at 1 32 56 PM](https://github.com/user-attachments/assets/e2dae13f-6fef-48e5-8409-a85416b602da)
+
+## Conclusion
+Each Machine Learning algorithm has its own quirks — assumptions and constraints — that need to be taken into account in order to maximize the predictive accuracy. Furthermore, quantifying the efficacy of the predictions requires skills in data-science and statistics. For these reasons, it is very important that we do not use our exploration of ML to produce products or make claims on abilities without first consulting experts in the field.
