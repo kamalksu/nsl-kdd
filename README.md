@@ -12,3 +12,14 @@
 
 • NSL-KDD, is a cleaned-up version of the KDD’99 from the University of New Brunswick, Canada
 
+# NSL-KDD (Different type of network attacks)
+• Denial of Service (DoS) : abnormal traffic to IDS and system shut down.
+
+• Probe: Steal information but do not break.
+
+• User to Root(U2R) : Start with normal user and get root access.
+
+• and Remote to Local (R2L): Gain local access to remote machine.
+
+![Screenshot 2024-11-01 at 1 27 32 PM](https://github.com/user-attachments/assets/d8191c83-028a-4e38-ad6a-b716f3d56801)
+
