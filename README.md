@@ -26,4 +26,10 @@
 ![Screenshot 2024-11-01 at 1 27 32 PM](https://github.com/user-attachments/assets/d8191c83-028a-4e38-ad6a-b716f3d56801)
 
 
+## LabelEncoder 
+LabelEncoder: Allows to convert categorical values into numeric format.
+![Screenshot 2024-11-01 at 1 30 58 PM](https://github.com/user-attachments/assets/a648e5fc-dfff-41b1-af18-181e87f07727)
 
+
+
+## 
