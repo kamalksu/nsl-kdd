@@ -1,4 +1,5 @@
 # ML and Cybersecurity Analytics in HPCC System Platform
+Information security in the era of AI and automation is the biggest challenge for cybersecurity professionals. Traditional information security protection has limitations in detecting zero-day attacks, which is overcome with the AI based information security. Combining traditional and machine learning algorithms enhances the improvement of threat detection. When implementing Machine learning in security protection, an organization needs to consider the design, deployment, and maintenance of the system which has to be powerful, secured,  and cost-effective. HPCC Systems Platform from LexisNexis Risk Solutions is one of the finest platforms for maintaining data-lake and its parallel computing power helps in faster processing of machine learning model training. This presenation will demonstrate how an open-source platform can be used for information security by leveraging various machine-learning algorithms.
 
 ## Cybersecurity and Intrusion detection system
 
